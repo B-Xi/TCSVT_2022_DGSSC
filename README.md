@@ -15,7 +15,7 @@ Run the 'run.py' to reproduce the DGSSC results on [Lokia]([http://www.ehu.eus/c
 We have successfully tested it on Ubuntu 16.04 with Tensorflow 1.13.1. Below is the classification result when 1\% labeled samples are selected as the training set. 
 
 <div align=center><p float="center">
-<img src="/image/false_color.jpg" title="(a)", height="200" width="400"/>
+<img src="/image/false_color.jpg" title="(a)"height="200" width="400"/>
 <img src="/image/gt.jpg" height="200"width="400"/>  
 <img src="/figure/hyrank/DGSSC_hyrank_7706_8531.png" height="200"width="400"/>
 </p></div>
