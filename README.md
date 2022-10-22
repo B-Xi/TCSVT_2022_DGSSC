@@ -6,7 +6,7 @@ Code for the paper: [DGSSC: A Deep Generative Spectral-Spatial Classifier for Im
 
 <div align=center><img src="/image/frameworks.jpg" width="80%" height="80%"></div>
 Fig. 1: Architecture of the proposed DGSSC for imbalanced hyperspectral imagery. The encoder, decoder, and classifier are trained in an end-to-end fashion,
-driven by the integrated loss of L~PdRec~, L~mmd~, and L~cls~.
+driven by the integrated loss of L< sub>PdRec< /sub >, L~mmd~, and L~cls~.
 
 Training and Test Process
 --
