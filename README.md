@@ -4,7 +4,7 @@ DGSSC: A Deep Generative Spectral-Spatial Classifier for Imbalanced Hyperspectra
 ***
 Code for the paper: [DGSSC: A Deep Generative Spectral-Spatial Classifier for Imbalanced Hyperspectral Imagery](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9924229).
 
-<div align=center><img src="/Image/frameworks.jpg" width="80%" height="80%"></div>
+<div align=center><img src="/image/frameworks.jpg" width="80%" height="80%"></div>
 Fig. 1: Architecture of the proposed DGSSC for imbalanced hyperspectral imagery. The encoder, decoder, and classifier are trained in an end-to-end fashion,
 driven by the integrated loss of L_PdRec, L_mmd, and L_cls.
 
@@ -17,8 +17,8 @@ Training and Test Process
 We have successfully tested it on Ubuntu 16.04 with Tensorflow 1.13.1. Below is the classification map with five shots of training samples from each class. 
 
 <div align=center><p float="center">
-<img src="/Image/false_color.jpg" height="300" width="200"/>
-<img src="/Image/gt.jpg" height="300"width="280"/>
+<img src="/image/false_color.jpg" height="300" width="200"/>
+<img src="/image/gt.jpg" height="300"width="280"/>
 <img src="/figure/hyrank/DGSSC_hyrank_7706_8531.jpg" height="300"width="200"/>
 </p></div>
 <div align=center>Fig. 2: The composite false-color image, groundtruth, and classification map of Lokia dataset.</div>  
