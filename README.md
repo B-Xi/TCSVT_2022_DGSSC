@@ -18,10 +18,7 @@ We have successfully tested it on Ubuntu 16.04 with Tensorflow 1.13.1. Below is 
 
 <div align=center><p float="center">
 <img src="/image/false_color.jpg" height="200" width="400"/>
-  
-  
-<img src="/image/gt.jpg" height="300"width="480"/>
-  
+<img src="/image/gt.jpg" height="300"width="480"/>  
   
 <img src="/figure/hyrank/DGSSC_hyrank_7706_8531.png" height="200"width="400"/>
 </p></div>
