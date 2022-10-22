@@ -10,9 +10,7 @@ driven by the integrated loss of L_PdRec, L_mmd, and L_cls.
 
 Training and Test Process
 --
-1) Please prepare the training and test data as operated in the paper. And the websites to access the datasets are also provided. The used OCBS band selection method is referred to [https://github.com/tanmlh](https://github.com/tanmlh)
-2) Run "trainMetaDataProcess.py" to generate the meta-training data 
-3) Run the 'CMFSL_UP_main.py' to reproduce the CMFSL results on [Pavia University](http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes#Pavia_University_scene) data set.
+Run the 'run.py' to reproduce the DGSSC results on [Lokia]([http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes#Pavia_University_scene](https://zenodo.org/record/1222202#.Y1QVq3ZBxsY)) dataset.
 
 We have successfully tested it on Ubuntu 16.04 with Tensorflow 1.13.1. Below is the classification map with five shots of training samples from each class. 
 
