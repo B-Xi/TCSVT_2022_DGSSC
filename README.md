@@ -10,7 +10,7 @@ driven by the integrated loss of L<sub>PdRec</sub>, L<sub>mmd</sub>, and L<sub>c
 
 Training and Test Process
 --
-Run the 'run.py' to reproduce the DGSSC results on [Lokia]([http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes#Pavia_University_scene](https://zenodo.org/record/1222202#.Y1QVq3ZBxsY)) dataset. 
+Please run the 'run.py' to reproduce the DGSSC results on [Lokia](http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes#Pavia_University_scene) dataset. 
 
 We have successfully tested it on Ubuntu 16.04 with Tensorflow 1.13.1. Below is the classification result when 1\% labeled samples are selected as the training set. 
 
